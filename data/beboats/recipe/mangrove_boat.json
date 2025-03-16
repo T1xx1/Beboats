@@ -1,0 +1,16 @@
+{
+   "type": "minecraft:crafting_shaped",
+   "pattern": [
+      "#W#",
+      "###"
+   ],
+   "key": {
+      "#": "minecraft:mangrove_planks",
+      "W": "minecraft:wooden_shovel"
+   },
+   "result": {
+      "id": "minecraft:mangrove_boat",
+      "count": 1
+   },
+   "group": "boats"
+}

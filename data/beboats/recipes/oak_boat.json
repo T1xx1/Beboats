@@ -5,11 +5,15 @@
       "###"
    ],
    "key": {
-      "#": "minecraft:cherry_planks",
-      "W": "minecraft:wooden_shovel"
+      "#": {
+         "item": "minecraft:oak_planks"
+      },
+      "W": {
+         "item": "minecraft:wooden_shovel"
+      }
    },
    "result": {
-      "id": "minecraft:cherry_boat",
+      "item": "minecraft:oak_boat",
       "count": 1
    },
    "group": "boats"

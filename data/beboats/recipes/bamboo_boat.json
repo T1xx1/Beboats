@@ -5,11 +5,15 @@
       "###"
    ],
    "key": {
-      "#": "minecraft:birch_planks",
-      "W": "minecraft:wooden_shovel"
+      "#": {
+         "item": "minecraft:bamboo"
+      },
+      "W": {
+         "item": "minecraft:wooden_shovel"
+      }
    },
    "result": {
-      "id": "minecraft:birch_boat",
+      "item": "minecraft:bamboo_raft",
       "count": 1
    },
    "group": "boats"

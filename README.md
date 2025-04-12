@@ -2,4 +2,4 @@
 
 Adds BE boats crafting recipes with the wooden shovel to Java.
 
-![](./assets/banner.webp)
+![](./assets/icon.gif)

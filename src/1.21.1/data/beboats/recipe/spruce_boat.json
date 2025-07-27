@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"pattern": [
+		"#W#",
+		"###"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:spruce_planks"
+		},
+		"W": {
+			"item": "minecraft:wooden_shovel"
+		}
+	},
+	"result": {
+		"id": "minecraft:spruce_boat",
+		"count": 1
+	}
+}

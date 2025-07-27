@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"pattern": [
+		" W ",
+		"###"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:bamboo"
+		},
+		"W": {
+			"item": "minecraft:wooden_shovel"
+		}
+	},
+	"result": {
+		"item": "minecraft:bamboo_raft",
+		"count": 1
+	}
+}
